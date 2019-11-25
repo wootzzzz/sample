@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "project_name": "Cent to Change",
+      "project_logo": "images/logo/centtochange.png",
+      "short_desc": "Help families living in Baseco, Tondo to have access to safe and clean drinking water.",
+      "mm_keyword": "families",
+      "mm_amount": 50,
+      "mm_action": "Give Water",
+      "mm_target_amount": 30,
+      "location": "Baseco, Tondo",
+      "social_media": "https://www.facebook.com/centtochange/",
+      "advocacy_id": 3
+    }
+    ,
+    {
+      "id": 1,
+      "project_name": "Cent to Change",
+      "project_logo": "images/logo/centtochange.png",
+      "short_desc": "Help families living in Baseco, Tondo to have access to safe and clean drinking water.",
+      "mm_keyword": "families",
+      "mm_amount": 50,
+      "mm_action": "Give Water",
+      "mm_target_amount": 30,
+      "location": "Baseco, Tondo",
+      "social_media": "https://www.facebook.com/centtochange/",
+      "advocacy_id": 3
+    }
+    ,
+    {
+      "id": 1,
+      "project_name": "Cent to Change",
+      "project_logo": "images/logo/centtochange.png",
+      "short_desc": "Help families living in Baseco, Tondo to have access to safe and clean drinking water.",
+      "mm_keyword": "families",
+      "mm_amount": 50,
+      "mm_action": "Give Water",
+      "mm_target_amount": 30,
+      "location": "Baseco, Tondo",
+      "social_media": "https://www.facebook.com/centtochange/",
+      "advocacy_id": 3
+    }
+    ,
+    {
+      "id": 1,
+      "project_name": "Cent to Change",
+      "project_logo": "images/logo/centtochange.png",
+      "short_desc": "Help families living in Baseco, Tondo to have access to safe and clean drinking water.",
+      "mm_keyword": "families",
+      "mm_amount": 50,
+      "mm_action": "Give Water",
+      "mm_target_amount": 30,
+      "location": "Baseco, Tondo",
+      "social_media": "https://www.facebook.com/centtochange/",
+      "advocacy_id": 3
+    }
+    ,
+    {
+      "id": 1,
+      "project_name": "Cent to Change",
+      "project_logo": "images/logo/centtochange.png",
+      "short_desc": "Help families living in Baseco, Tondo to have access to safe and clean drinking water.",
+      "mm_keyword": "families",
+      "mm_amount": 50,
+      "mm_action": "Give Water",
+      "mm_target_amount": 30,
+      "location": "Baseco, Tondo",
+      "social_media": "https://www.facebook.com/centtochange/",
+      "advocacy_id": 3
+    }
+]
